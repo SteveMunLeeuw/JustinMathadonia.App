@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.Justin_Mathadonia" version="1.0">
+<name>Justin_Mathadonia</name> 
+<description>
+A Math skills tool with a little programming thrown in.
+</description> 
+<author email="steve.munleeuw@gmail.com">
+Steve MunLeeuw
+</author> 
+<title>Beer-Run</title>
+<icon src="img/beerrun_96.png" width="96" height="96" />
+<icon src="img/beerrun_72.png" width="72" height="72" />
+<icon src="img/beerrun_48.png" width="48" height="48" />
+<icon src="img/beerrun_36.png" width="36" height="36" />
+</widget>
